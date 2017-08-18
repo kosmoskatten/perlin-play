@@ -20,3 +20,4 @@ executable perlin-play
   ghc-options:         -Wall -Wextra
   build-depends:       base >= 4.7 && < 5
                      , JuicyPixels
+                     , linear
